@@ -1,0 +1,22 @@
+{
+  "name": "audio_no_midi",
+  "version": "0.1.0",
+  "description": "audio data via microphonne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajfarkas/audio-no-midi.git"
+  },
+  "author": "AJ Farkas",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ajfarkas/audio-no-midi/issues"
+  },
+  "homepage": "https://github.com/ajfarkas/audio-no-midi#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
